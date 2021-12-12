@@ -7,6 +7,7 @@ Autor: Freire Torres Camila Micaela
 ## TAREA 1
 
 - Realizar el Ejercicio de libro [Computing Skills for Biologists](https://drive.google.com/file/d/18ul3LT6-ASxYxO_1u9lonjJBWjwPTxJb/view?usp=sharing) pagina 52 **"1.10.3 Plant-Pollinator Networks"**
-
-- La resolución de la primera Tarea se puede observar [aquí](Tarea1.sh)
-- Asì como los archivos, resultados de la misma: [Ejercicio 1](netsize.sh) y [Ejercicio 2](netsize_all.sh)
+- Donde se utiliza los datos del repositorio [CSB-book](https://github.com/CSB-book/CSB.git)
+- En este caso, la ruta para usar estos datos fue: Descargas/Bioinformatica/CSB-master/unix/data/Saavedra2013
+- La resolución de la primera Tarea se puede observar [Ejercicio 1](netsize.sh) y [Ejercicio 2](netsize_all.sh)
+- Asì como los archivos, resultados de la misma: [Resultado Ejercicio 1](netsize.txt) y [ Resultado Ejercicio 2](netsize_all.txt)
