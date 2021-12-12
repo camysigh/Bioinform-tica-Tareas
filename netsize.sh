@@ -7,6 +7,10 @@
 # y determina el número de filas (polinizadores)
 # y columnas (plantas).
 
+#NOTA: Para evitar conflictos con los archivos recientemente creados, se genera un diretorio nuevo
+
+mkdir ./Resultados1
+
 # Para realizar esto, se puede contar el número se filas del archivo
 # con el uso del comando wc -l, donde l se refiere a las líneas. En este
 # se contará el número de filas del archivo n1.txt procedente del repocitorio CSB-master
@@ -39,16 +43,21 @@ head -n 1 n1.txt | tr -d " " | tr -d "\n" | wc -c
 
 # Finalmente Para organizar de mejor manera el resultado y poderlo guardar, se emplea el siguiente comando:
 
-echo "Nombre del archivo" >> netsize.txt | echo "/Descargas/Bioinformatica/CSB-master/unix/data/Saavedra2013/n1.txt" >> netsize.txt 
-echo "Numero de filas:" >> netsize.txt | wc -l n1.txt  >> netsize.txt 
-echo "Numero de columnas:" >> netsize.txt | head -n 1 n1.txt | tr -d " " | tr -d "\n" | wc -c >> netsize.txt
+echo "Nombre del archivo" >> Resultados1/netsize.txt | echo "/Descargas/Bioinformatica/CSB-master/unix/data/Saavedra2013/n1.txt" >> Resultados1/netsize.txt 
+echo "Numero de filas:" >> Resultados1/netsize.txt | wc -l n1.txt  >> Resultados1/netsize.txt 
+echo "Numero de columnas:" >> Resultados1/netsize.txt | head -n 1 n1.txt | tr -d " " | tr -d "\n" | wc -c >> Resultados1/netsize.txt
 
 # Donde se ocupa echo para poder imprimir cada etiqueta de los resultados obtenidos, a su vez esta debe guardarse 
 # previamente, al igual que cada resultado obtenido.
 
+# Dado que tambíen se genera un archivo en el directorio Saavedra2013, para no generar conflictos con los datos originales y 
+# con el siguiente ejercicio, se procede aa borrarlo del mencionado directorio.
+
+rm netsize.txt
+
 # Para verificar que el archivo se haya creado correctamentse se peude hacer uso del comando cat 
 
-cat netsize.txt
+cat ./Resultados1/netsize.txt
 
 # Obteniendose: Nombre del archivo
 # /Descargas/Bioinformatica/CSB-master/unix/data/Saavedra2013/n1.txt
