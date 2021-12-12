@@ -39,7 +39,7 @@ head -n 1 n1.txt | tr -d " " | tr -d "\n" | wc -c
 
 # Finalmente Para organizar de mejor manera el resultado y poderlo guardar, se emplea el siguiente comando:
 
-echo "Nombre del archivo" >> netsize.txt | echo "/Descargas/Bioinformatica/CSB-master/unix/data/Saavedra2013/n1.txt" >> netsize.sh 
+echo "Nombre del archivo" >> netsize.txt | echo "/Descargas/Bioinformatica/CSB-master/unix/data/Saavedra2013/n1.txt" >> netsize.txt 
 echo "Numero de filas:" >> netsize.txt | wc -l n1.txt  >> netsize.txt 
 echo "Numero de columnas:" >> netsize.txt | head -n 1 n1.txt | tr -d " " | tr -d "\n" | wc -c >> netsize.txt
 
