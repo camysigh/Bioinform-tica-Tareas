@@ -13,9 +13,9 @@
 # Una vez se realiza esto, se procede a iterar los archivos mediante el bucle for. A cotinuaión se emplea
 # nuevamente este bucle en combinación con los anteriores comandos mensionados, para la obtencion de filas 
 # y columnas. Finalmente, se imprime el mensaje de los resultados por medio del comando echo, para proceder
-# a guardarlos en el archivo netsize_all.sh
+# a guardarlos en el archivo netsize_all.txt
 
-echo "Nombre, Número de Filas, Numero de columnas" >>netsize_all.sh; ARCHIVO=*.txt; for A in $ARCHIVO; do echo $A; done | for A in $ARCHIVO; do N_filas=`cat $A | wc -l` N_columnas=`cat $A | head -n 1 | tr -d " " | tr -d "\n" | wc -c`; echo $A $N_filas $N_columnas; done >> netsize_all.sh
+echo "Nombre, Número de Filas, Numero de columnas" >>netsize_all.txt; ARCHIVO=*.txt; for A in $ARCHIVO; do echo $A; done | for A in $ARCHIVO; do N_filas=`cat $A | wc -l` N_columnas=`cat $A | head -n 1 | tr -d " " | tr -d "\n" | wc -c`; echo $A $N_filas $N_columnas; done >> netsize_all.txt
 
 # Al realizar el bucle para la determinación de las columnas y filas, se asigno a los resultados una funcion: N_filas 
 # y N_columnas respectivamente. Esto se realizó con el proposito de poder imprimir la informacion a modo que se presente:
@@ -24,7 +24,7 @@ echo "Nombre, Número de Filas, Numero de columnas" >>netsize_all.sh; ARCHIVO=*.
 
 # Para verificar que se ha desarrollado correctamente el ejercicio, se usa el comando cat 
 
-cat netsize_all.sh
+cat netsize_all.txt
 
 #### El resultado fue el siguiente:
 
@@ -89,5 +89,5 @@ cat netsize_all.sh
 # n8.txt 19 33
 # n9.txt 12 22
 
-# Cabe mencionar que el proceso para determinar el numero de filas y columnas, se lo hizo consecutivamente
+# Cabe mencionar que el proceso para determinar el número de filas y columnas, se lo hizo consecutivamente
 # ya que se deseaba obtener una presentación de resultados en la que se asemeje a una tabla o datos tabulares. 
