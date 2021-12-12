@@ -26,9 +26,14 @@ echo "Nombre, Número de Filas, Numero de columnas" >>netsize_all.txt; ARCHIVO=*
 # Nombre del archivo, Número de Fila, Número de columna. [echo $A $N_filas $N_columnas]. Asimismo, para identificar los
 # obtenidos se hizo uso del comando echo, a modo de encabezado de la tabla dada
 
+# Al existir un error, ya que el bucle for tambien toma en cuenta al archivo creado recientemente "netsize_all.txt", se procede
+# a eliminarlo del directorio en el que se está trabajando
+
+rm netsize_all.txt
+
 # Para verificar que se ha desarrollado correctamente el ejercicio, se usa el comando cat 
 
-cat netsize_all.txt
+cat Resultados2/netsize_all.txt
 
 #### El resultado fue el siguiente:
 
@@ -92,6 +97,7 @@ cat netsize_all.txt
 # n7.txt 16 25
 # n8.txt 19 33
 # n9.txt 12 22
+# netsize_all.txt 1 38
 
 # Cabe mencionar que el proceso para determinar el número de filas y columnas, se lo hizo consecutivamente
 # ya que se deseaba obtener una presentación de resultados en la que se asemeje a una tabla o datos tabulares. 
