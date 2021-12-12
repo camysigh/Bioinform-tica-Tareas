@@ -5,6 +5,10 @@
 ## 2. Escribe un script que imprima el número de filas
 # y columnas para cada red
 
+# Para que no exista conflictos con respecto a los datos originales, se decidió guardar el archivo en un nuevo repositorio por lo que previamente se creo 
+
+mkdir ./Resultados2
+
 ## Para ello primero se debe dar un valor a una función, esto facilitará el proceso, a la hora de realizar el
 # comando, en este caso ARCHIVOS=*.txt, al igualar esta función a *.txt, se le esta ordenando al computador que
 # todos los archivos de este repositorio, cuya terminación sea *.txt van a poder ser llamados, gracias a la 
@@ -15,7 +19,7 @@
 # y columnas. Finalmente, se imprime el mensaje de los resultados por medio del comando echo, para proceder
 # a guardarlos en el archivo netsize_all.txt
 
-echo "Nombre, Número de Filas, Numero de columnas" >>netsize_all.txt; ARCHIVO=*.txt; for A in $ARCHIVO; do echo $A; done | for A in $ARCHIVO; do N_filas=`cat $A | wc -l` N_columnas=`cat $A | head -n 1 | tr -d " " | tr -d "\n" | wc -c`; echo $A $N_filas $N_columnas; done >> netsize_all.txt
+echo "Nombre, Número de Filas, Numero de columnas" >>netsize_all.txt; ARCHIVO=*.txt; for A in $ARCHIVO; do echo $A; done | for A in $ARCHIVO; do N_filas=`cat $A | wc -l` N_columnas=`cat $A | head -n 1 | tr -d " " | tr -d "\n" | wc -c`; echo $A $N_filas $N_columnas; done >> Resultados2/netsize_all.txt
 
 # Al realizar el bucle para la determinación de las columnas y filas, se asigno a los resultados una funcion: N_filas 
 # y N_columnas respectivamente. Esto se realizó con el proposito de poder imprimir la informacion a modo que se presente:
