@@ -16,6 +16,13 @@ Autora: Freire Torres Camila Micaela
   - Copie y pegue el enlace de su repositorio donde se revisará sus archivos y el control de versión.
   
 - Donde se utiliza los datos del repositorio [CSB-book](https://github.com/CSB-book/CSB.git)
+
 **_NOTA:_** _En este caso, la ruta para usar estos datos fue: **Descargas/Bioinformatica/CSB-master/unix/data/Saavedra2013**_
-- La resolución de la primera Tarea se puede observar [Ejercicio 1](netsize.sh) y [Ejercicio 2](netsize_all.sh)
-- Asì como los archivos, resultados de la misma: [Resultado Ejercicio 1](netsize.txt) y [ Resultado Ejercicio 2](netsize_all.txt)
+
+### Resolución Ejercicio 1 y Resultado:
+[Ejercicio 1](netsize.sh) y [Resultado Ejercicio 1](netsize.txt)
+
+### Resoluciòn Ejercicio 2 y Resultados
+
+[Ejercicio 2](netsize_all.sh) y [ Resultado Ejercicio 2](netsize_all.txt)
+
