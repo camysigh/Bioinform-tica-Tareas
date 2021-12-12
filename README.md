@@ -1,3 +1,5 @@
+![ ](https://omniprex.com/wp-content/uploads/2018/04/bioinformatica.jpg)
+
 # Bioinformatica Tareas Camila Freire
 Este es el repocitorio donde se subirá todas las tareas enviadas en la asignatura Bioinformática Grupo 1
 Autor: Freire Torres Camila Micaela
