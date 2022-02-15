@@ -1,0 +1,1073 @@
+PMID- 33547373
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211115
+LR  - 20211115
+IS  - 2045-2322 (Electronic)
+IS  - 2045-2322 (Linking)
+VI  - 11
+IP  - 1
+DP  - 2021 Feb 5
+TI  - Molecular diversity and evolutionary trends of cysteine-rich peptides from the venom 
+      glands of Chinese spider Heteropoda venatoria.
+PG  - 3211
+LID - 10.1038/s41598-021-82668-5 [doi]
+LID - 3211
+AB  - Heteropoda venatoria in the family Sparassidae is highly valued in pantropical 
+      countries because the species feed on domestic insect pests. Unlike most other 
+      species of Araneomorphae, H. venatoria uses the great speed and strong chelicerae 
+      (mouthparts) with toxin glands to capture the insects instead of its web. Therefore, 
+      H. venatoria provides unique opportunities for venom evolution research. The venom 
+      of H. venatoria was explored by matrix-assisted laser desorption/ionization tandem 
+      time-of-flight and analyzing expressed sequence tags. The 154 sequences coding 
+      cysteine-rich peptides (CRPs) revealed 24 families based on the phylogenetic 
+      analyses of precursors and cysteine frameworks in the putative mature regions. 
+      Intriguingly, four kinds of motifs are first described in spider venom. Furthermore, 
+      combining the diverse CRPs of H. venatoria with previous spider venom peptidomics 
+      data, the structures of precursors and the patterns of cysteine frameworks were 
+      analyzed. This work revealed the dynamic evolutionary trends of venom CRPs in H. 
+      venatoria: the precursor has evolved an extended mature peptide with more cysteines, 
+      and a diminished or even vanished propeptides between the signal and mature 
+      peptides; and the CRPs evolved by multiple duplications of an ancestral ICK gene as 
+      well as recruitments of non-toxin genes.
+FAU - Luo, Jie
+AU  - Luo J
+AD  - College of Bioscience and Biotechnology, Hunan Agricultural University, Changsha, 
+      410128, People's Republic of China.
+FAU - Ding, Yiying
+AU  - Ding Y
+AD  - College of Bioscience and Biotechnology, Hunan Agricultural University, Changsha, 
+      410128, People's Republic of China.
+FAU - Peng, Zhihao
+AU  - Peng Z
+AD  - College of Bioscience and Biotechnology, Hunan Agricultural University, Changsha, 
+      410128, People's Republic of China.
+FAU - Chen, Kezhi
+AU  - Chen K
+AD  - College of Bioscience and Biotechnology, Hunan Agricultural University, Changsha, 
+      410128, People's Republic of China.
+FAU - Zhang, Xuewen
+AU  - Zhang X
+AD  - College of Bioscience and Biotechnology, Hunan Agricultural University, Changsha, 
+      410128, People's Republic of China.
+FAU - Xiao, Tiaoyi
+AU  - Xiao T
+AD  - College of Animal Science and Technology, Hunan Agricultural University, Changsha, 
+      410128, People's Republic of China.
+FAU - Chen, Jinjun
+AU  - Chen J
+AD  - College of Bioscience and Biotechnology, Hunan Agricultural University, Changsha, 
+      410128, People's Republic of China. chhncjj@126.com.
+AD  - Hunan Provincial Engineering Technology Research Center for Cell Mechanics and 
+      Function Analysis, Changsha, 410128, People's Republic of China. chhncjj@126.com.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20210205
+TA  - Sci Rep
+JT  - Scientific reports
+JID - 101563288
+RN  - 0 (Peptides)
+RN  - 0 (Spider Venoms)
+RN  - K848JZ4886 (Cysteine)
+SB  - IM
+MH  - Animals
+MH  - China
+MH  - Cysteine/analysis/*genetics
+MH  - Evolution, Molecular
+MH  - Female
+MH  - Male
+MH  - Peptides/analysis/*genetics
+MH  - Phylogeny
+MH  - Spider Venoms/chemistry/*genetics
+MH  - Spiders/chemistry/*genetics
+MH  - Transcriptome
+PMC - PMC7865051
+COIS- The authors declare no competing interests.
+EDAT- 2021/02/07 06:00
+MHDA- 2021/11/16 06:00
+CRDT- 2021/02/06 05:41
+PHST- 2020/07/07 00:00 [received]
+PHST- 2021/01/20 00:00 [accepted]
+PHST- 2021/02/06 05:41 [entrez]
+PHST- 2021/02/07 06:00 [pubmed]
+PHST- 2021/11/16 06:00 [medline]
+AID - 10.1038/s41598-021-82668-5 [pii]
+AID - 82668 [pii]
+AID - 10.1038/s41598-021-82668-5 [doi]
+PST - epublish
+SO  - Sci Rep. 2021 Feb 5;11(1):3211. doi: 10.1038/s41598-021-82668-5.
+
+PMID- 27867092
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170724
+LR  - 20170724
+IS  - 1879-3150 (Electronic)
+IS  - 0041-0101 (Linking)
+VI  - 125
+DP  - 2017 Jan
+TI  - Peptide-rich venom from the spider Heteropoda venatoria potently inhibits insect 
+      voltage-gated sodium channels.
+PG  - 44-49
+LID - S0041-0101(16)30584-0 [pii]
+LID - 10.1016/j.toxicon.2016.11.252 [doi]
+AB  - Heteropoda venatoria is a venomous spider species distributed worldwide and has a 
+      characteristic habit of feeding on insects. Reverse-phase high-performance liquid 
+      chromatography and matrix-assisted laser-desorption/ionization time-of-flight mass 
+      spectrometry analyses revealed that H. venatoria venom contains hundreds of peptides 
+      with a predominant molecular weights of 3000-5000 Da. Intra-abdominal injection of 
+      the venom had severe toxic effects on cockroaches and caused death at higher 
+      concentrations. The LD(50) was 28.18 μg/g of body weight in the cockroach. It was 
+      found that the venom had potent inhibitory effect on voltage-gated sodium channels 
+      (VGSCs) in Periplaneta americana cockroach dorsal unpaired median (DUM) neurons with 
+      an IC(50) values of 6.25 ± 0.02 μg/mL. However, 100 μg/mL venom only partially 
+      blocked VGSC currents in rat dorsal root ganglion cells, a much lower inhibitory 
+      effect than that on DUM VGSCs. Our results indicate that the venom of H. venatoria 
+      contains diverse neurotoxins that might become new leads for bioinsecticides.
+CI  - Copyright © 2016 Elsevier Ltd. All rights reserved.
+FAU - Huang, Yazhou
+AU  - Huang Y
+AD  - The National & Local Joint Engineering Laboratory of Animal Peptide Drug 
+      Development, College of Life Sciences, Hunan Normal University, Changsha, Hunan 
+      410081, China.
+FAU - Wu, Xinzhou
+AU  - Wu X
+AD  - The National & Local Joint Engineering Laboratory of Animal Peptide Drug 
+      Development, College of Life Sciences, Hunan Normal University, Changsha, Hunan 
+      410081, China.
+FAU - Zhang, Peng
+AU  - Zhang P
+AD  - The National & Local Joint Engineering Laboratory of Animal Peptide Drug 
+      Development, College of Life Sciences, Hunan Normal University, Changsha, Hunan 
+      410081, China.
+FAU - Duan, Zhigui
+AU  - Duan Z
+AD  - The National & Local Joint Engineering Laboratory of Animal Peptide Drug 
+      Development, College of Life Sciences, Hunan Normal University, Changsha, Hunan 
+      410081, China.
+FAU - Zhou, Xi
+AU  - Zhou X
+AD  - The National & Local Joint Engineering Laboratory of Animal Peptide Drug 
+      Development, College of Life Sciences, Hunan Normal University, Changsha, Hunan 
+      410081, China.
+FAU - Chen, Minzhi
+AU  - Chen M
+AD  - The National & Local Joint Engineering Laboratory of Animal Peptide Drug 
+      Development, College of Life Sciences, Hunan Normal University, Changsha, Hunan 
+      410081, China.
+FAU - Farooq, Athar
+AU  - Farooq A
+AD  - The National & Local Joint Engineering Laboratory of Animal Peptide Drug 
+      Development, College of Life Sciences, Hunan Normal University, Changsha, Hunan 
+      410081, China.
+FAU - Liang, Songping
+AU  - Liang S
+AD  - The National & Local Joint Engineering Laboratory of Animal Peptide Drug 
+      Development, College of Life Sciences, Hunan Normal University, Changsha, Hunan 
+      410081, China; The Key Laboratory of Protein Chemistry and Developmental Biology of 
+      the Ministry of Education, College of Life Sciences, Hunan Normal University, 
+      Changsha, Hunan 410081, China.
+FAU - Liu, Zhonghua
+AU  - Liu Z
+AD  - The National & Local Joint Engineering Laboratory of Animal Peptide Drug 
+      Development, College of Life Sciences, Hunan Normal University, Changsha, Hunan 
+      410081, China; The Key Laboratory of Protein Chemistry and Developmental Biology of 
+      the Ministry of Education, College of Life Sciences, Hunan Normal University, 
+      Changsha, Hunan 410081, China. Electronic address: liuzh@hunnu.edu.cn.
+LA  - eng
+PT  - Journal Article
+DEP - 20161117
+PL  - England
+TA  - Toxicon
+JT  - Toxicon : official journal of the International Society on Toxinology
+JID - 1307333
+RN  - 0 (Arthropod Proteins)
+RN  - 0 (Insect Proteins)
+RN  - 0 (Spider Venoms)
+RN  - 0 (Voltage-Gated Sodium Channel Blockers)
+SB  - IM
+MH  - Animals
+MH  - Arthropod Proteins/chemistry/*pharmacology
+MH  - Chromatography, High Pressure Liquid
+MH  - Cockroaches/drug effects
+MH  - Insect Proteins/*antagonists & inhibitors
+MH  - Lethal Dose 50
+MH  - Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization
+MH  - Spider Venoms/chemistry/*pharmacology
+MH  - *Spiders
+MH  - Voltage-Gated Sodium Channel Blockers/chemistry/*pharmacology
+OTO - NOTNLM
+OT  - Dorsal unpaired median neurons
+OT  - H. venatoria venom
+OT  - Insecticides
+OT  - Voltage-gated sodium channels
+EDAT- 2016/11/22 06:00
+MHDA- 2017/07/25 06:00
+CRDT- 2016/11/22 06:00
+PHST- 2016/07/01 00:00 [received]
+PHST- 2016/09/21 00:00 [revised]
+PHST- 2016/11/16 00:00 [accepted]
+PHST- 2016/11/22 06:00 [pubmed]
+PHST- 2017/07/25 06:00 [medline]
+PHST- 2016/11/22 06:00 [entrez]
+AID - S0041-0101(16)30584-0 [pii]
+AID - 10.1016/j.toxicon.2016.11.252 [doi]
+PST - ppublish
+SO  - Toxicon. 2017 Jan;125:44-49. doi: 10.1016/j.toxicon.2016.11.252. Epub 2016 Nov 17.
+
+PMID- 29880771
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190405
+LR  - 20190405
+IS  - 2072-6651 (Electronic)
+IS  - 2072-6651 (Linking)
+VI  - 10
+IP  - 6
+DP  - 2018 Jun 7
+TI  - Purification and Characterization of a Novel Insecticidal Toxin, μ-sparatoxin-Hv2, 
+      from the Venom of the Spider Heteropoda venatoria.
+LID - 10.3390/toxins10060233 [doi]
+LID - 233
+AB  - The venom of the spider Heteropoda venatoria produced lethal effect to cockroaches 
+      as reported in our previous study, and could be a resource for naturally-occurring 
+      insecticides. The present study characterized a novel cockroach voltage-gated sodium 
+      channels (Na(V)s) antagonist, μ-sparatoxin-Hv2 (μ-SPRTX-Hv2 for short), from this 
+      venom. μ-SPRTX-Hv2 is composed of 37 amino acids and contains six conserved 
+      cysteines. We synthesized the toxin by using the chemical synthesis method. The 
+      toxin was lethal to cockroaches when intraperitoneally injected, with a LD(50) value 
+      of 2.8 nmol/g of body weight. Electrophysiological data showed that the toxin 
+      potently blocked Na(V)s in cockroach dorsal unpaired median (DUM) neurons, with an 
+      IC(50) of 833.7 ± 132.2 nM, but it hardly affected the DUM voltage-gated potassium 
+      channels (K(V)s) and the DUM high-voltage-activated calcium channels (HVA Ca(V)s). 
+      The toxin also did not affect Na(V)s, HVA Ca(V)s, and Kvs in rat dorsal root 
+      ganglion (DRG) neurons, as well as Na(V) subtypes Na(V)1.3⁻1.5, Na(V)1.7, and 
+      Na(V)1.8. No envenomation symptoms were observed when μ-SPRTX-Hv2 was 
+      intraperitoneally injected into mouse at the dose of 7.0 μg/g. In summary, 
+      μ-SPRTX-Hv2 is a novel insecticidal toxin from H. venatoria venom. It might exhibit 
+      its effect by blocking the insect Na(V)s and is a candidate for developing 
+      bioinsecticide.
+FAU - Xiao, Zhen
+AU  - Xiao Z
+AD  - The National and Local Joint Engineering Laboratory of Animal Peptide Drug 
+      Development, College of Life Sciences, Hunan Normal University, Changsha 410081, 
+      China. Zhen-Xiao@outlook.com.
+FAU - Zhang, Yunxiao
+AU  - Zhang Y
+AD  - The National and Local Joint Engineering Laboratory of Animal Peptide Drug 
+      Development, College of Life Sciences, Hunan Normal University, Changsha 410081, 
+      China. Zhangyx@smail.hunnu.edu.cn.
+FAU - Zeng, Jiao
+AU  - Zeng J
+AD  - The National and Local Joint Engineering Laboratory of Animal Peptide Drug 
+      Development, College of Life Sciences, Hunan Normal University, Changsha 410081, 
+      China. Jiaozeng_@outlook.com.
+FAU - Liang, Songping
+AU  - Liang S
+AD  - The National and Local Joint Engineering Laboratory of Animal Peptide Drug 
+      Development, College of Life Sciences, Hunan Normal University, Changsha 410081, 
+      China. liangsp@hunnu.edu.cn.
+FAU - Tang, Cheng
+AU  - Tang C
+AD  - The National and Local Joint Engineering Laboratory of Animal Peptide Drug 
+      Development, College of Life Sciences, Hunan Normal University, Changsha 410081, 
+      China. chengtang@hunnu.edu.cn.
+FAU - Liu, Zhonghua
+AU  - Liu Z
+AD  - The National and Local Joint Engineering Laboratory of Animal Peptide Drug 
+      Development, College of Life Sciences, Hunan Normal University, Changsha 410081, 
+      China. liuzh@hunnu.edu.cn.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20180607
+TA  - Toxins (Basel)
+JT  - Toxins
+JID - 101530765
+RN  - 0 (Insecticides)
+RN  - 0 (Spider Venoms)
+RN  - 0 (Toxins, Biological)
+RN  - 0 (Voltage-Gated Sodium Channel Blockers)
+RN  - 0 (Voltage-Gated Sodium Channels)
+SB  - IM
+MH  - Animals
+MH  - Cells, Cultured
+MH  - Cockroaches/drug effects
+MH  - Ganglia, Spinal/drug effects/physiology
+MH  - Insecticides/*pharmacology
+MH  - Mice, Inbred C57BL
+MH  - Neurons/drug effects/physiology
+MH  - Rats, Sprague-Dawley
+MH  - Spider Venoms/*chemistry
+MH  - Toxins, Biological/genetics/*pharmacology
+MH  - Voltage-Gated Sodium Channel Blockers/*pharmacology
+MH  - Voltage-Gated Sodium Channels/*physiology
+PMC - PMC6024679
+OTO - NOTNLM
+OT  - *bioinsecticide
+OT  - *spider peptide toxin
+OT  - *voltage-gated sodium channels
+COIS- The authors declare that they have no conflict of interest.
+EDAT- 2018/06/09 06:00
+MHDA- 2019/04/06 06:00
+CRDT- 2018/06/09 06:00
+PHST- 2018/05/18 00:00 [received]
+PHST- 2018/06/03 00:00 [revised]
+PHST- 2018/06/06 00:00 [accepted]
+PHST- 2018/06/09 06:00 [entrez]
+PHST- 2018/06/09 06:00 [pubmed]
+PHST- 2019/04/06 06:00 [medline]
+AID - toxins10060233 [pii]
+AID - toxins-10-00233 [pii]
+AID - 10.3390/toxins10060233 [doi]
+PST - epublish
+SO  - Toxins (Basel). 2018 Jun 7;10(6):233. doi: 10.3390/toxins10060233.
+
+PMID- 31757020
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20201113
+LR  - 20201113
+IS  - 2072-6651 (Electronic)
+IS  - 2072-6651 (Linking)
+VI  - 11
+IP  - 12
+DP  - 2019 Nov 20
+TI  - Newly Discovered Action of HpTx3 from Venom of Heteropoda venatoria on Na(v)1.7 and 
+      Its Pharmacological Implications in Analgesia.
+LID - 10.3390/toxins11120680 [doi]
+LID - 680
+AB  - It has been reported that Heteropodatoxin3 (HpTx3), a peptidic neurotoxin purified 
+      from the venom of the spider species Heteropoda venatoria, could inhibit K(v)4.2 
+      channels. Our present study newly found that HpTx3 also has potent and selective 
+      inhibitory action on Na(v)1.7, with an IC(50) of 135.61 ± 12.98 nM. Without effect 
+      on the current-voltage (I-V) relationship of Na(v)1.7, HpTx3 made minor alternation 
+      in the voltage-dependence of activation and steady-state inactivation of Na(v)1.7 
+      (4.15 mV and 7.29 mV, respectively) by interacting with the extracellular S3-S4 loop 
+      (S3b-S4 sequence) in domain II and the domain IV of the Na(v) channel subtype, 
+      showing the characteristics of both pore blocker and gate modifier toxin. During the 
+      interaction of HpTx3 with the S3b-S4 sequence of Na(v)1.7, the amino acid residue D 
+      in the sequence played a key role. When administered intraperitoneally or 
+      intramuscularly, HpTx3 displayed potent analgesic activity in a dose-dependent 
+      manner in different mouse pain models induced by formalin, acetic acid, complete 
+      Freund's adjuvant, hot plate, or spared nerve injury, demonstrating that acute, 
+      inflammatory, and neuropathic pains were all effectively inhibited by the toxin. In 
+      most cases HpTx3 at doses of ≥ 1mg/kg could produce the analgesic effect comparable 
+      to that of 1 mg/kg morphine. These results suggest that HpTx3 not only can be used 
+      as a molecular probe to investigate ion channel function and pain mechanism, but 
+      also has potential in the development of the drugs that treat the Na(v)1.7 
+      channel-related pain.
+FAU - Wu, Xinzhou
+AU  - Wu X
+AD  - Key Laboratory of Protein Chemistry and Developmental Biology of Ministry of 
+      Education, College of Life Sciences, Hunan Normal University, Changsha 410081, 
+      China.
+FAU - Wang, Zhouquan
+AU  - Wang Z
+AD  - Key Laboratory of Protein Chemistry and Developmental Biology of Ministry of 
+      Education, College of Life Sciences, Hunan Normal University, Changsha 410081, 
+      China.
+FAU - Chen, Yu
+AU  - Chen Y
+AD  - Key Laboratory of Protein Chemistry and Developmental Biology of Ministry of 
+      Education, College of Life Sciences, Hunan Normal University, Changsha 410081, 
+      China.
+FAU - Xu, Dehong
+AU  - Xu D
+AD  - Key Laboratory of Protein Chemistry and Developmental Biology of Ministry of 
+      Education, College of Life Sciences, Hunan Normal University, Changsha 410081, 
+      China.
+FAU - Zhang, Peng
+AU  - Zhang P
+AD  - Key Laboratory of Protein Chemistry and Developmental Biology of Ministry of 
+      Education, College of Life Sciences, Hunan Normal University, Changsha 410081, 
+      China.
+FAU - Wang, Xianchun
+AU  - Wang X
+AD  - Key Laboratory of Protein Chemistry and Developmental Biology of Ministry of 
+      Education, College of Life Sciences, Hunan Normal University, Changsha 410081, 
+      China.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20191120
+TA  - Toxins (Basel)
+JT  - Toxins
+JID - 101530765
+RN  - 0 (Analgesics, Non-Narcotic)
+RN  - 0 (Analgesics, Opioid)
+RN  - 0 (Anti-Inflammatory Agents, Non-Steroidal)
+RN  - 0 (NAV1.7 Voltage-Gated Sodium Channel)
+RN  - 0 (Scn9a protein, mouse)
+RN  - 0 (Sodium Channel Blockers)
+RN  - 0 (Spider Venoms)
+RN  - 76I7G6D29C (Morphine)
+SB  - IM
+MH  - Analgesics, Non-Narcotic/*pharmacology
+MH  - Analgesics, Opioid/pharmacology
+MH  - Animals
+MH  - Anti-Inflammatory Agents, Non-Steroidal/pharmacology
+MH  - Dose-Response Relationship, Drug
+MH  - Injections, Intramuscular
+MH  - Injections, Intraperitoneal
+MH  - Mice
+MH  - Morphine/pharmacology
+MH  - NAV1.7 Voltage-Gated Sodium Channel/*drug effects
+MH  - Neuralgia/drug therapy
+MH  - Pain Measurement/drug effects
+MH  - Sodium Channel Blockers/*pharmacology
+MH  - Spider Venoms/*pharmacology
+PMC - PMC6950750
+OTO - NOTNLM
+OT  - *Heteropoda venatoria
+OT  - *HpTx3
+OT  - *Nav1.7
+OT  - *analgesia
+OT  - *inhibition
+OT  - *mouse pain model
+OT  - *selectivity
+COIS- The authors declare no conflict of interest.
+EDAT- 2019/11/24 06:00
+MHDA- 2020/11/18 06:00
+CRDT- 2019/11/24 06:00
+PHST- 2019/10/04 00:00 [received]
+PHST- 2019/11/17 00:00 [revised]
+PHST- 2019/11/18 00:00 [accepted]
+PHST- 2019/11/24 06:00 [entrez]
+PHST- 2019/11/24 06:00 [pubmed]
+PHST- 2020/11/18 06:00 [medline]
+AID - toxins11120680 [pii]
+AID - toxins-11-00680 [pii]
+AID - 10.3390/toxins11120680 [doi]
+PST - epublish
+SO  - Toxins (Basel). 2019 Nov 20;11(12):680. doi: 10.3390/toxins11120680.
+
+PMID- 19357248
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20090717
+LR  - 20211020
+IS  - 1521-0111 (Electronic)
+IS  - 0026-895X (Print)
+IS  - 0026-895X (Linking)
+VI  - 76
+IP  - 1
+DP  - 2009 Jul
+TI  - S3b amino acid substitutions and ancillary subunits alter the affinity of Heteropoda 
+      venatoria toxin 2 for Kv4.3.
+PG  - 125-33
+LID - 10.1124/mol.109.055657 [doi]
+AB  - Heteropoda venatoria toxin 2 (HpTx2) is an inhibitor cystine knot (ICK)-gating 
+      modifier toxin that selectively inhibits Kv4 channels. To characterize the molecular 
+      determinants of interaction, we performed alanine scanning of the Kv4.3 S3b region. 
+      HpTx2-Kv4.3 interaction had an apparent K(d) value of 2.3 microM. Two alanine 
+      mutants in Kv4.3 increased K(d) values to 6.4 microM for V276A and 25 microM for 
+      L275A. Simultaneous mutation of both amino acids to alanine nearly eliminated toxin 
+      interaction. Unlike Hanatoxin and other well characterized ICK toxins, HpTx2 binding 
+      does not require a charged amino acid for interaction. To determine whether the 
+      identity of the S3b binding site amino acids altered HpTx2 specificity, we 
+      constructed Kv4.3 [LV275IF]. This mutation decreased the K(d) value to 0.54 microM, 
+      suggesting that the hydrophobic character of the putative binding site is the most 
+      important property for interaction with HpTx2. One mutant, N280A, caused stronger 
+      interaction of HpTx2 with Kv4.3; the K(d) value for Kv4.3 [N280A] was 0.26 microM. 
+      To understand Kv4.3-based transient outward currents in native tissues, we tested 
+      the affinity of HpTx2 for Kv4.3 coexpressed with KChIP2b. The toxin's K(d) value for 
+      Kv4.3 + KChIP2b was 0.95 microM. KChIP2b stabilizes the closed state of Kv4.3, 
+      suggesting that the increased toxin affinity is due to increased stabilization of 
+      the closed state. These data show that HpTx2 binding to Kv4.3 has aspects in common 
+      with other ICK gating modifier toxins but that the interventions that increase toxin 
+      affinity suggest flexibility toward channel binding that belies its unusual 
+      specificity for Kv4 channels.
+FAU - DeSimone, Christopher V
+AU  - DeSimone CV
+AD  - Department of Physiology and Biophysics, University at Buffalo, The State University 
+      of New York, Buffalo, NY 14214, USA.
+FAU - Lu, YiChun
+AU  - Lu Y
+FAU - Bondarenko, Vladimir E
+AU  - Bondarenko VE
+FAU - Morales, Michael J
+AU  - Morales MJ
+LA  - eng
+GR  - HL52874/HL/NHLBI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20090408
+TA  - Mol Pharmacol
+JT  - Molecular pharmacology
+JID - 0035623
+RN  - 0 (HpTx-2 protein, Heteropoda venatoria)
+RN  - 0 (Protein Subunits)
+RN  - 0 (Shab Potassium Channels)
+RN  - 0 (Shal Potassium Channels)
+RN  - 0 (Spider Venoms)
+SB  - IM
+MH  - Amino Acid Sequence
+MH  - Animals
+MH  - Binding Sites
+MH  - Dose-Response Relationship, Drug
+MH  - Female
+MH  - Molecular Sequence Data
+MH  - Protein Subunits
+MH  - Shab Potassium Channels/antagonists & inhibitors
+MH  - Shal Potassium Channels/*antagonists & inhibitors/*metabolism
+MH  - Spider Venoms/metabolism/*pharmacology
+MH  - Structure-Activity Relationship
+MH  - Thermodynamics
+MH  - Xenopus laevis
+PMC - PMC2701457
+EDAT- 2009/04/10 09:00
+MHDA- 2009/07/18 09:00
+CRDT- 2009/04/10 09:00
+PHST- 2009/04/10 09:00 [entrez]
+PHST- 2009/04/10 09:00 [pubmed]
+PHST- 2009/07/18 09:00 [medline]
+AID - mol.109.055657 [pii]
+AID - 0125 [pii]
+AID - 10.1124/mol.109.055657 [doi]
+PST - ppublish
+SO  - Mol Pharmacol. 2009 Jul;76(1):125-33. doi: 10.1124/mol.109.055657. Epub 2009 Apr 8.
+
+PMID- 11152117
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20010426
+LR  - 20181113
+IS  - 0961-8368 (Print)
+IS  - 1469-896X (Electronic)
+IS  - 0961-8368 (Linking)
+VI  - 9
+IP  - 11
+DP  - 2000 Nov
+TI  - Solution structure of hpTX2, a toxin from Heteropoda venatoria spider that blocks 
+      Kv4.2 potassium channel.
+PG  - 2059-67
+AB  - HpTX2 is a toxin from the venom of Heteropoda venatoria spider that has been 
+      demonstrated to bind on Kv4.2 potassium channel. We have determined the solution 
+      structure of recombinant HpTX2 by use of conventional two-dimensional NMR techniques 
+      followed by distance-geometry and molecular dynamics. The calculated structure 
+      belongs to the Inhibitory Cystin Knot structural family that consists in a compact 
+      disulfide-bonded core, from which four loops emerge. A poorly defined two-stranded 
+      antiparallel beta-sheet (residues 20-23 and 25-28) is detected. Analysis of the 
+      electrostatic charge anisotropy allows us to propose a functional map of HpTX2 
+      different from the one described for kappa-conotoxin PVIIA, but strongly related to 
+      the one of charybdotoxin. The orientation of the dipole moment of HpTX2 emerges 
+      through K27 which could therefore be the critical lysine residue. Close to this 
+      lysine are a second basic residue, R23, an aromatic cluster (F7, W25, W30) and an 
+      hydrophobic side chain (L24). The high density in aromatic side chains of the 
+      putative functional surface as well as the lack of an asparagine is proposed to be 
+      the structural basis of the specificity of HpTX2 toward Kv4.2 channel.
+FAU - Bernard, C
+AU  - Bernard C
+AD  - AFMB, CNRS UMR 6098, IFR1, 31, Chemín Joseph-Aiguier, Marseille, France.
+FAU - Legros, C
+AU  - Legros C
+FAU - Ferrat, G
+AU  - Ferrat G
+FAU - Bischoff, U
+AU  - Bischoff U
+FAU - Marquardt, A
+AU  - Marquardt A
+FAU - Pongs, O
+AU  - Pongs O
+FAU - Darbon, H
+AU  - Darbon H
+LA  - eng
+PT  - Journal Article
+TA  - Protein Sci
+JT  - Protein science : a publication of the Protein Society
+JID - 9211750
+RN  - 0 (Conotoxins)
+RN  - 0 (Disulfides)
+RN  - 0 (HpTx-2 protein, Heteropoda venatoria)
+RN  - 0 (Neuropeptides)
+RN  - 0 (Neurotoxins)
+RN  - 0 (Potassium Channels)
+RN  - 0 (Potassium Channels, Voltage-Gated)
+RN  - 0 (Recombinant Proteins)
+RN  - 0 (Shal Potassium Channels)
+RN  - 0 (Spider Venoms)
+RN  - 0 (kappa-conotoxin PVIIA)
+RN  - 0 (omega-Conotoxins)
+RN  - 115422-61-2 (Charybdotoxin)
+RN  - 145033-94-9 (Tx2 neurotoxin)
+RN  - K3Z4F929H6 (Lysine)
+SB  - IM
+MH  - Amino Acid Sequence
+MH  - Animals
+MH  - Anisotropy
+MH  - CHO Cells
+MH  - Charybdotoxin/chemistry
+MH  - Conotoxins/chemistry
+MH  - Cricetinae
+MH  - Disulfides
+MH  - Electrophysiology
+MH  - Escherichia coli/metabolism
+MH  - Lysine/chemistry
+MH  - Magnetic Resonance Spectroscopy
+MH  - Models, Molecular
+MH  - Molecular Sequence Data
+MH  - Neuropeptides/*chemistry
+MH  - Neurotoxins/*chemistry
+MH  - Potassium Channels/*chemistry
+MH  - *Potassium Channels, Voltage-Gated
+MH  - Protein Conformation
+MH  - Protein Structure, Secondary
+MH  - Recombinant Proteins/chemistry
+MH  - Shal Potassium Channels
+MH  - Spider Venoms/*chemistry
+MH  - Time Factors
+MH  - omega-Conotoxins/chemistry
+PMC - PMC2144494
+EDAT- 2001/01/11 11:00
+MHDA- 2001/05/01 10:01
+CRDT- 2001/01/11 11:00
+PHST- 2001/01/11 11:00 [pubmed]
+PHST- 2001/05/01 10:01 [medline]
+PHST- 2001/01/11 11:00 [entrez]
+PST - ppublish
+SO  - Protein Sci. 2000 Nov;9(11):2059-67.
+
+PMID- 11973553
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20020531
+LR  - 20190717
+IS  - 0196-0644 (Print)
+IS  - 1097-6760 (Electronic)
+IS  - 0196-0644 (Linking)
+VI  - 39
+IP  - 5
+DP  - 2002 May
+TI  - A new assay for the detection of Loxosceles species (brown recluse) spider venom.
+PG  - 469-74
+AB  - STUDY OBJECTIVE: Dermal lesions from unrelated arthropod species and medical causes 
+      appear similar to Loxosceles species (brown recluse spider) bites. This may result 
+      in delayed diagnosis and treatment. We developed a sensitive Loxosceles species 
+      venom enzyme-linked immunosorbent assay (ELISA) and characterized the specificity of 
+      the assay by evaluating antigenic cross-reactivity from a variety of North American 
+      arthropod venoms. METHODS: North American arthropod (14 spiders, 2 scorpions, and 1 
+      bee) venoms were studied. Three venom amounts (diluted in 100 microL of ELISA 
+      buffer) were assayed: 16,000 ng, 2,000 ng, and 40 ng. The latter quantity was 
+      selected because this is the observed maximum amount of venom we detect when 
+      inoculating dermis with amounts likely to be deposited by a spider bite. The larger 
+      venom amounts are overwhelming quantities designed to test the limits of the assay 
+      for arthropod venom cross-reactivity. Similar amounts of Loxosceles species venom 
+      and bovine albumin served as positive and negative controls, respectively. RESULTS: 
+      At the lowest amount of venom tested (40 ng), the ELISA detected only the Loxosceles 
+      species positive control. When 2,000 ng was assayed, only Scytodes fusca and 
+      Kukulcania hibernalis arachnid venoms (in addition to Loxosceles species) 
+      cross-reacted to the assay. Finally, at 16,000 ng, the ELISA assay modestly detected 
+      Diguetia canities, Heteropoda venatoria, Tegenaria agrestis, Plectreurys tristes, 
+      Dolomedes tenebrosus, and Hadrurus arizonensis arachnid venoms. CONCLUSION: 
+      Cross-reactivity was observed in 8 of 17 North American arthropod venoms when large 
+      venom amounts were assayed with a Loxosceles species ELISA. By using a relevant 
+      quantity of venom, 40 ng, the assay was specific for Loxosceles species venom. The 
+      venom specificity of the ELISA may allow clinical application in Loxosceles species 
+      endemic regions of North America.
+FAU - Gomez, Hernan F
+AU  - Gomez HF
+AD  - Department of Emergency Medicine, University of Michigan Medical Center, Ann Arbor, 
+      MI 48109-0305, USA. hfg@umich.edu
+FAU - Krywko, Diann M
+AU  - Krywko DM
+FAU - Stoecker, William V
+AU  - Stoecker WV
+LA  - eng
+GR  - R43 AR055863-01/AR/NIAMS NIH HHS/United States
+PT  - Comparative Study
+PT  - Journal Article
+TA  - Ann Emerg Med
+JT  - Annals of emergency medicine
+JID - 8002646
+RN  - 0 (Spider Venoms)
+SB  - IM
+MH  - Animals
+MH  - Biopsy
+MH  - Chromatography, Ion Exchange
+MH  - Cross Reactions
+MH  - Diagnosis, Differential
+MH  - Enzyme-Linked Immunosorbent Assay/*methods
+MH  - Rabbits
+MH  - Sensitivity and Specificity
+MH  - Skin/pathology
+MH  - Spider Bites/*diagnosis/pathology
+MH  - Spider Venoms/*analysis
+MH  - *Spiders
+PMC - PMC3201721
+MID - NIHMS327067
+EDAT- 2002/04/26 10:00
+MHDA- 2002/06/01 10:01
+CRDT- 2002/04/26 10:00
+PHST- 2002/04/26 10:00 [pubmed]
+PHST- 2002/06/01 10:01 [medline]
+PHST- 2002/04/26 10:00 [entrez]
+AID - S0196064402254384 [pii]
+AID - 10.1067/mem.2002.122914 [doi]
+PST - ppublish
+SO  - Ann Emerg Med. 2002 May;39(5):469-74. doi: 10.1067/mem.2002.122914.
+
+PMID- 21540294
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20110916
+LR  - 20120118
+IS  - 1521-0111 (Electronic)
+IS  - 0026-895X (Linking)
+VI  - 80
+IP  - 2
+DP  - 2011 Aug
+TI  - Heteropoda toxin 2 interaction with Kv4.3 and Kv4.1 reveals differences in gating 
+      modification.
+PG  - 345-55
+LID - 10.1124/mol.111.072405 [doi]
+AB  - Kv4 (Shal) potassium channels are responsible for the transient outward K(+) 
+      currents in mammalian hearts and central nervous systems. Heteropoda toxin 2 (HpTx2) 
+      is an inhibitor cysteine knot peptide toxin specific for Kv4 channels that inhibits 
+      gating of Kv4.3 in the voltage-dependent manner typical for this type of toxin. 
+      HpTx2 interacts with four independent binding sites containing two conserved 
+      hydrophobic amino acids in the S3b transmembrane segments of Kv4.3 and the closely 
+      related Kv4.1. Despite these similarities, HpTx2 interaction with Kv4.1 is 
+      considerably less voltage-dependent, has smaller shifts in the voltage-dependences 
+      of conductance and steady-state inactivation, and a 3-fold higher K(d) value. 
+      Swapping four nonconserved amino acids in S3b between the two channels exchanges the 
+      phenotypic response to HpTx2. To understand these differences in gating 
+      modification, we constructed Markov models of Kv4.3 and Kv4.1 activation gating in 
+      the presence of HpTx2. Both models feature a series of voltage-dependent steps 
+      leading to a final voltage-independent transition to the open state and closely 
+      replicate the experimental data. Interaction with HpTx2 increases the energy barrier 
+      for channel opening by slowing activation and accelerating deactivation. The greater 
+      degree of voltage-dependence in Kv4.3 occurs because it is the voltage-dependent 
+      transitions that are most affected by HpTx2; in contrast, it is the 
+      voltage-independent step in Kv4.1 that is most affected by the presence of toxin. 
+      These data demonstrate the basis for subtype-specificity of HpTx2 and point the way 
+      to a general model of gating modifier toxin interaction with voltage-gated ion 
+      channels.
+FAU - DeSimone, Christopher V
+AU  - DeSimone CV
+AD  - Department of Physiology and Biophysics, University at Buffalo, The State University 
+      of New York, 124 Sherman Hall, Buffalo, NY 14214, USA. moralesm@buffalo.edu
+FAU - Zarayskiy, Vladislav V
+AU  - Zarayskiy VV
+FAU - Bondarenko, Vladimir E
+AU  - Bondarenko VE
+FAU - Morales, Michael J
+AU  - Morales MJ
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20110503
+PL  - United States
+TA  - Mol Pharmacol
+JT  - Molecular pharmacology
+JID - 0035623
+RN  - 0 (HpTx-2 protein, Heteropoda venatoria)
+RN  - 0 (Shal Potassium Channels)
+RN  - 0 (Spider Venoms)
+SB  - IM
+MH  - Amino Acid Sequence
+MH  - Animals
+MH  - Female
+MH  - Ion Channel Gating/*drug effects/*physiology
+MH  - Mice
+MH  - Molecular Sequence Data
+MH  - Protein Binding/drug effects/physiology
+MH  - Rats
+MH  - Shal Potassium Channels/*metabolism/physiology
+MH  - Spider Venoms/*metabolism/pharmacology
+MH  - Xenopus laevis
+EDAT- 2011/05/05 06:00
+MHDA- 2011/09/17 06:00
+CRDT- 2011/05/05 06:00
+PHST- 2011/05/05 06:00 [entrez]
+PHST- 2011/05/05 06:00 [pubmed]
+PHST- 2011/09/17 06:00 [medline]
+AID - mol.111.072405 [pii]
+AID - 10.1124/mol.111.072405 [doi]
+PST - ppublish
+SO  - Mol Pharmacol. 2011 Aug;80(2):345-55. doi: 10.1124/mol.111.072405. Epub 2011 May 3.
+
+PMID- 17644754
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20071127
+LR  - 20200930
+IS  - 1040-0605 (Print)
+IS  - 1040-0605 (Linking)
+VI  - 293
+IP  - 4
+DP  - 2007 Oct
+TI  - Characterization of slowly inactivating KV{alpha} current in rabbit pulmonary 
+      neuroepithelial bodies: effects of hypoxia and nicotine.
+PG  - L892-902
+AB  - Pulmonary neuroepithelial bodies (NEB) form innervated cell clusters that express 
+      voltage-activated currents and function as airway O(2) sensors. We investigated 
+      A-type K(+) currents in NEB cells using neonatal rabbit lung slice preparation. The 
+      whole cell K(+) current was slowly inactivating with activation threshold of 
+      approximately -30 mV. This current was blocked approximately 27% by blood-depressing 
+      substance I (BDS-I; 3 microM), a selective blocker of Kv3.4 subunit, and reduced 
+      approximately 20% by tetraethylammonium (TEA; 100 microM). The BDS-I-sensitive 
+      component had an average peak value of 189 +/- 14 pA and showed fast inactivation 
+      kinetics that could be fitted by one-component exponential function with a time 
+      constant of (tau1) 77 +/- 10 ms. This Kv slowly inactivating current was also 
+      blocked by heteropodatoxin-2 (HpTx-2; 0.2 microM), a blocker of Kv4 subunit. The 
+      HpTx-2-sensitive current had an average peak value of 234 +/- 23 pA with a time 
+      constant (tau) 82 +/- 11 ms. Hypoxia (Po(2) = 15-20 mmHg) inhibited the slowly 
+      inactivating K(+) current by approximately 47%, during voltage steps from -30 to +30 
+      mV, and no further inhibition occurred when TEA was combined with hypoxia. Nicotine 
+      at concentrations of 50 and 100 microM suppressed the slowly inactivating K(+) 
+      current by approximately 24 and approximately 40%, respectively. This suppression 
+      was not reversed by mecamylamine suggesting a direct effect of nicotine on these 
+      K(+) channels. In situ hybridization experiments detected expression of mRNAs for 
+      Kv3.4 and Kv4.3 subunits, while double-label immunofluorescence confirmed membrane 
+      localization of respective channel proteins in NEB cells. These studies suggest that 
+      the hypoxia-sensitive current in NEB cells is carried by slowly inactivating A-type 
+      K(+) channels, which underlie their oxygen-sensitive potassium currents, and that 
+      exposure to nicotine may directly affect their function, contributing to 
+      smoking-related lung disease.
+FAU - Fu, Xiao Wen
+AU  - Fu XW
+AD  - Division of Pathology, Department of Pediatric Laboratory Medicine, The Research 
+      Institute, The Hospital for Sick Children and University of Toronto, Toronto, 
+      Ontario M5G 1X8, Canada.
+FAU - Nurse, Colin
+AU  - Nurse C
+FAU - Cutz, Ernest
+AU  - Cutz E
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20070720
+PL  - United States
+TA  - Am J Physiol Lung Cell Mol Physiol
+JT  - American journal of physiology. Lung cellular and molecular physiology
+JID - 100901229
+RN  - 0 (BDS-I antiviral protein, Anemonia sulcata)
+RN  - 0 (Cnidarian Venoms)
+RN  - 0 (HpTx-2 protein, Heteropoda venatoria)
+RN  - 0 (Potassium Channel Blockers)
+RN  - 0 (RNA, Messenger)
+RN  - 0 (Shal Potassium Channels)
+RN  - 0 (Shaw Potassium Channels)
+RN  - 0 (Spider Venoms)
+RN  - 66-40-0 (Tetraethylammonium)
+RN  - 6M3C89ZY6R (Nicotine)
+SB  - IM
+MH  - Animals
+MH  - Cnidarian Venoms/pharmacology
+MH  - Electric Conductivity
+MH  - Female
+MH  - Fluorescent Antibody Technique
+MH  - Hypoxia/*metabolism/physiopathology
+MH  - In Vitro Techniques
+MH  - Lung/*metabolism/physiopathology
+MH  - Male
+MH  - Neuroepithelial Bodies/*metabolism
+MH  - Nicotine/*pharmacology
+MH  - Potassium Channel Blockers/pharmacology
+MH  - RNA, Messenger/metabolism
+MH  - Rabbits
+MH  - Shal Potassium Channels/drug effects/genetics/*metabolism
+MH  - Shaw Potassium Channels/drug effects/genetics/*metabolism
+MH  - Spider Venoms/pharmacology
+MH  - Tetraethylammonium/pharmacology
+MH  - Tissue Distribution
+EDAT- 2007/07/24 09:00
+MHDA- 2007/12/06 09:00
+CRDT- 2007/07/24 09:00
+PHST- 2007/07/24 09:00 [pubmed]
+PHST- 2007/12/06 09:00 [medline]
+PHST- 2007/07/24 09:00 [entrez]
+AID - 00098.2007 [pii]
+AID - 10.1152/ajplung.00098.2007 [doi]
+PST - ppublish
+SO  - Am J Physiol Lung Cell Mol Physiol. 2007 Oct;293(4):L892-902. doi: 
+      10.1152/ajplung.00098.2007. Epub 2007 Jul 20.
+
+PMID- 26196737
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160502
+LR  - 20181113
+IS  - 1932-6203 (Electronic)
+IS  - 1932-6203 (Linking)
+VI  - 10
+IP  - 7
+DP  - 2015
+TI  - Kv4.3-Encoded Fast Transient Outward Current Is Presented in Kv4.2 Knockout Mouse 
+      Cardiomyocytes.
+PG  - e0133274
+LID - 10.1371/journal.pone.0133274 [doi]
+LID - e0133274
+AB  - Gradients of the fast transient outward K+ current (Ito,f) contribute to 
+      heterogeneity of ventricular repolarization in a number of species. Cardiac Ito,f 
+      levels and gradients change notably with heart disease. Human cardiac Ito,f appears 
+      to be encoded by the Kv4.3 pore-forming α-subunit plus the auxiliary KChIP2 
+      β-subunit while mouse cardiac Ito,f requires Kv4.2 and Kv4.3 α-subunits plus KChIP2. 
+      Regional differences in cardiac Ito,f are associated with expression differences in 
+      Kv4.2 and KChIP2. Although Ito,f was reported to be absent in mouse ventricular 
+      cardiomyocytes lacking the Kv4.2 gene (Kv4.2-/-) when short depolarizing voltage 
+      pulses were used to activate voltage-gated K+ currents, in the present study, we 
+      showed that the use of long depolarization steps revealed a 
+      heteropodatoxin-sensitive Ito,f (at ~40% of the wild-type levels). 
+      Immunohistological studies further demonstrated membrane expression of Kv4.3 in 
+      Kv4.2-/- cardiomyocytes. Transmural Ito,f gradients across the left ventricular wall 
+      were reduced by ~3.5-fold in Kv4.2-/- heart, compared to wild-type. The Ito,f 
+      gradient in Kv4.2-/- hearts was associated with gradients in KChIP2 mRNA expression 
+      while in wild-type there was also a gradient in Kv4.2 expression. In conclusion, we 
+      found that Kv4.3-based Ito,f exists in the absence of Kv4.2, although with a reduced 
+      transmural gradient. Kv4.2-/- mice may be a useful animal model for studying 
+      Kv4.3-based Ito,f as observed in humans.
+FAU - Liu, Jie
+AU  - Liu J
+AD  - The Departments of Physiology and Medicine, University of Toronto, Toronto, Ontario, 
+      Canada; Division of Cardiology, University Health Network, Toronto, Ontario, Canada.
+FAU - Kim, Kyoung-Han
+AU  - Kim KH
+AD  - The Departments of Physiology and Medicine, University of Toronto, Toronto, Ontario, 
+      Canada; Division of Cardiology, University Health Network, Toronto, Ontario, Canada; 
+      Program in Developmental and Stem Cell Biology, Hospital for Sick Children, Toronto, 
+      Ontario, Canada.
+FAU - Morales, Michael J
+AU  - Morales MJ
+AD  - Department of Physiology & Biophysics, University at Buffalo, the State University 
+      of New York, Buffalo, New York, United States of America.
+FAU - Heximer, Scott P
+AU  - Heximer SP
+AD  - The Departments of Physiology and Medicine, University of Toronto, Toronto, Ontario, 
+      Canada.
+FAU - Hui, Chi-Chung
+AU  - Hui CC
+AD  - Program in Developmental and Stem Cell Biology, Hospital for Sick Children, Toronto, 
+      Ontario, Canada; The Departments of Molecular Genetics, University of Toronto, 
+      Toronto, Ontario, Canada.
+FAU - Backx, Peter H
+AU  - Backx PH
+AD  - The Departments of Physiology and Medicine, University of Toronto, Toronto, Ontario, 
+      Canada; Division of Cardiology, University Health Network, Toronto, Ontario, Canada.
+LA  - eng
+GR  - MOP 119339/Canadian Institutes of Health Research/Canada
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20150721
+TA  - PLoS One
+JT  - PloS one
+JID - 101285081
+RN  - 0 (HpTx-2 protein, Heteropoda venatoria)
+RN  - 0 (Kv Channel-Interacting Proteins)
+RN  - 0 (Potassium Channel Blockers)
+RN  - 0 (Protein Subunits)
+RN  - 0 (Shal Potassium Channels)
+RN  - 0 (Spider Venoms)
+SB  - IM
+MH  - Action Potentials/drug effects/genetics/*physiology
+MH  - Animals
+MH  - Cell Membrane/drug effects/metabolism/*physiology
+MH  - Cells, Cultured
+MH  - Fluorescent Antibody Technique
+MH  - Gene Expression
+MH  - Kv Channel-Interacting Proteins/genetics/metabolism/physiology
+MH  - Mice, Inbred C57BL
+MH  - Mice, Knockout
+MH  - Mice, Transgenic
+MH  - Myocytes, Cardiac/cytology/metabolism/*physiology
+MH  - Patch-Clamp Techniques
+MH  - Potassium Channel Blockers/pharmacology
+MH  - Protein Subunits/genetics/metabolism/physiology
+MH  - Reverse Transcriptase Polymerase Chain Reaction
+MH  - Shal Potassium Channels/genetics/metabolism/*physiology
+MH  - Spider Venoms/pharmacology
+PMC - PMC4510596
+COIS- Competing Interests: The authors have declared that no competing interests exist.
+EDAT- 2015/07/22 06:00
+MHDA- 2016/05/03 06:00
+CRDT- 2015/07/22 06:00
+PHST- 2015/02/10 00:00 [received]
+PHST- 2015/06/25 00:00 [accepted]
+PHST- 2015/07/22 06:00 [entrez]
+PHST- 2015/07/22 06:00 [pubmed]
+PHST- 2016/05/03 06:00 [medline]
+AID - PONE-D-15-06244 [pii]
+AID - 10.1371/journal.pone.0133274 [doi]
+PST - epublish
+SO  - PLoS One. 2015 Jul 21;10(7):e0133274. doi: 10.1371/journal.pone.0133274. eCollection 
+      2015.
+
+PMID- 23435154
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130705
+LR  - 20211021
+IS  - 2072-6651 (Electronic)
+IS  - 2072-6651 (Linking)
+VI  - 5
+IP  - 2
+DP  - 2013 Feb 22
+TI  - Effect of gating modifier toxins on membrane thickness: implications for toxin 
+      effect on gramicidin and mechanosensitive channels.
+PG  - 456-71
+LID - 10.3390/toxins5020456 [doi]
+AB  - Various gating modifier toxins partition into membranes and interfere with the 
+      gating mechanisms of biological ion channels. For example, GsMTx4 potentiates 
+      gramicidin and several bacterial mechanosensitive channels whose gating kinetics are 
+      sensitive to mechanical properties of the membrane, whereas binding of HpTx2 shifts 
+      the voltage-activity curve of the voltage-gated potassium channel Kv4.2 to the 
+      right. The detailed process by which the toxin partitions into membranes has been 
+      difficult to probe using molecular dynamics due to the limited time scale 
+      accessible. Here we develop a protocol that allows the spontaneous assembly of a 
+      polypeptide toxin into membranes in atomistic molecular dynamics simulations of tens 
+      of nanoseconds. The protocol is applied to GsMTx4 and HpTx2. Both toxins, released 
+      in water at the start of the simulation, spontaneously bind into the lipid bilayer 
+      within 50 ns, with their hydrophobic patch penetrated into the bilayer beyond the 
+      phosphate groups of the lipids. It is found that the bilayer is about 2 Å thinner 
+      upon the binding of a GsMTx4 monomer. Such a thinning effect of GsMTx4 on membranes 
+      may explain its potentiation effect on gramicidin and mechanosensitive channels.
+FAU - Chen, Rong
+AU  - Chen R
+AD  - Research School of Biology, Australian National University, Canberra, ACT 0200, 
+      Australia. rong.chen@anu.edu.au.
+FAU - Chung, Shin-Ho
+AU  - Chung SH
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20130222
+TA  - Toxins (Basel)
+JT  - Toxins
+JID - 101530765
+RN  - 0 (HpTx-2 protein, Heteropoda venatoria)
+RN  - 0 (Intercellular Signaling Peptides and Proteins)
+RN  - 0 (Lipid Bilayers)
+RN  - 0 (MTx4 protein, Grammostola spatulata)
+RN  - 0 (Membranes, Artificial)
+RN  - 0 (Peptides)
+RN  - 0 (Spider Venoms)
+RN  - 1405-97-6 (Gramicidin)
+SB  - IM
+MH  - Cell Membrane/*drug effects/physiology
+MH  - Gramicidin
+MH  - Intercellular Signaling Peptides and Proteins
+MH  - Ion Channel Gating
+MH  - Lipid Bilayers/chemistry
+MH  - Membranes, Artificial
+MH  - *Molecular Dynamics Simulation
+MH  - Peptides/*pharmacology
+MH  - Spider Venoms/*pharmacology
+PMC - PMC3640545
+EDAT- 2013/02/26 06:00
+MHDA- 2013/07/06 06:00
+CRDT- 2013/02/26 06:00
+PHST- 2013/01/06 00:00 [received]
+PHST- 2013/02/18 00:00 [revised]
+PHST- 2013/02/18 00:00 [accepted]
+PHST- 2013/02/26 06:00 [entrez]
+PHST- 2013/02/26 06:00 [pubmed]
+PHST- 2013/07/06 06:00 [medline]
+AID - toxins5020456 [pii]
+AID - toxins-05-00456 [pii]
+AID - 10.3390/toxins5020456 [doi]
+PST - epublish
+SO  - Toxins (Basel). 2013 Feb 22;5(2):456-71. doi: 10.3390/toxins5020456.
