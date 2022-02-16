@@ -1027,7 +1027,7 @@ AB  - Various gating modifier toxins partition into membranes and interfere with
       may explain its potentiation effect on gramicidin and mechanosensitive channels.
 FAU - Chen, Rong
 AU  - Chen R
-AD  - Research School of Biology, Australian National University, Canberra, ACT 0200, 
+AD  - Research School of Biology, Australian National University, Canberra, ACT 0200,
       Australia. rong.chen@anu.edu.au.
 FAU - Chung, Shin-Ho
 AU  - Chung SH
