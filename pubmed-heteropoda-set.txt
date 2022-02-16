@@ -33,33 +33,33 @@ AB  - Heteropoda venatoria in the family Sparassidae is highly valued in pantrop
 FAU - Luo, Jie
 AU  - Luo J
 AD  - College of Bioscience and Biotechnology, Hunan Agricultural University, Changsha, 
-      410128, People's Republic of China.
+      410128, China.
 FAU - Ding, Yiying
 AU  - Ding Y
 AD  - College of Bioscience and Biotechnology, Hunan Agricultural University, Changsha, 
-      410128, People's Republic of China.
+      410128, China.
 FAU - Peng, Zhihao
 AU  - Peng Z
 AD  - College of Bioscience and Biotechnology, Hunan Agricultural University, Changsha, 
-      410128, People's Republic of China.
+      410128, China.
 FAU - Chen, Kezhi
 AU  - Chen K
 AD  - College of Bioscience and Biotechnology, Hunan Agricultural University, Changsha, 
-      410128, People's Republic of China.
+      410128, China.
 FAU - Zhang, Xuewen
 AU  - Zhang X
 AD  - College of Bioscience and Biotechnology, Hunan Agricultural University, Changsha, 
-      410128, People's Republic of China.
+      410128, China.
 FAU - Xiao, Tiaoyi
 AU  - Xiao T
 AD  - College of Animal Science and Technology, Hunan Agricultural University, Changsha, 
-      410128, People's Republic of China.
+      410128, China.
 FAU - Chen, Jinjun
 AU  - Chen J
 AD  - College of Bioscience and Biotechnology, Hunan Agricultural University, Changsha, 
-      410128, People's Republic of China. chhncjj@126.com.
+      410128, China. chhncjj@126.com.
 AD  - Hunan Provincial Engineering Technology Research Center for Cell Mechanics and 
-      Function Analysis, Changsha, 410128, People's Republic of China. chhncjj@126.com.
+      Function Analysis, Changsha, 410128, China. chhncjj@126.com.
 LA  - eng
 PT  - Journal Article
 PT  - Research Support, Non-U.S. Gov't
@@ -934,7 +934,7 @@ AD  - The Departments of Physiology and Medicine, University of Toronto, Toronto
 FAU - Morales, Michael J
 AU  - Morales MJ
 AD  - Department of Physiology & Biophysics, University at Buffalo, the State University 
-      of New York, Buffalo, New York, United States of America.
+      of New York, Buffalo, New York, USA.
 FAU - Heximer, Scott P
 AU  - Heximer SP
 AD  - The Departments of Physiology and Medicine, University of Toronto, Toronto, Ontario, 
