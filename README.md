@@ -32,10 +32,15 @@ Basado en las sesiones de **Visualización de datos** y **Expresiones resulares*
 
 - Buscar bibliografía de un tema de interés propio en la Página Web de PubMed,
 - Realizar el minado de autores por país (en el ejemplo se encuentra realziado por las ciudades de USA). Para asignar las ubicación geográfica de los centroides - de cada país (latitud y longitud), utilice la tabla  [Ubicación Geográfica de Países - Google Developer](https://developers.google.com/public-data/docs/canonical/countries_csv). Así como en la solución de referencia se señalan varias ciudades seleccionadas de USA, en su resolución **señale/resalte** a los siguientes países: *USA, UK, Brazil, China, Australia, Norway*.  
-- Cargue su cuaderno de Jupyter en GitHub
+- Cargue su cuaderno de Jupyter en GitHub 
 
 ***A EVALUAR:***
 
 1. En el documento se puede ver con claridad el Mapa de Ciencia de su tema de interés.
 la figura tiene etiquetas adecuadas en los ejes de la visualización. 
 2. Se tiene al menos tres controles de la versión (3 commit con mensajes adecuados sobre la versión)
+
+### BASE DE DATOS
+
+[Data de artículos sobre veneno de serpiente (2004-2022)](https://github.com/camysigh/Bioinform-tica-Tareas/blob/main/pubmed-spiderveno-set.txt)
+[Data de coordenadas de paises del mundo](https://github.com/camysigh/Bioinform-tica-Tareas/blob/main/coordenadas.csv)
