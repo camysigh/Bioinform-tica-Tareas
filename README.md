@@ -26,7 +26,7 @@ Autora: Freire Torres Camila Micaela
 
 [Ejercicio 2](netsize_all.sh) y [ Resultado Ejercicio 2](netsize_all.txt)
 
-## [TAREA 1]()
+## [TAREA 2]()
 
 Basado en las sesiones de **Visualización de datos** y **Expresiones resulares**. Realice una adaptación de la solución del MAP OF SCIENCE. Se requiere dos adaptaciones para resolver esta actividad:
 
