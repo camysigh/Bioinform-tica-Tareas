@@ -42,5 +42,5 @@ la figura tiene etiquetas adecuadas en los ejes de la visualización.
 
 ### BASE DE DATOS
 
-[Data de artículos sobre veneno de serpiente (2004-2022)](https://github.com/camysigh/Bioinform-tica-Tareas/blob/main/pubmed-spiderveno-set.txt)
-[Data de coordenadas de paises del mundo](https://github.com/camysigh/Bioinform-tica-Tareas/blob/main/coordenadas.csv)
+- [Data de artículos sobre veneno de serpiente (2004-2022)](https://github.com/camysigh/Bioinform-tica-Tareas/blob/main/pubmed-spiderveno-set.txt)
+- [Data de coordenadas de paises del mundo](https://github.com/camysigh/Bioinform-tica-Tareas/blob/main/coordenadas.csv)
